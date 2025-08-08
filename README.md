@@ -69,7 +69,7 @@ import pandas as pd
 df = pd.read_csv("Pakistan_Medicines_Dataset.csv")
 
 # Preview
-print(df.head())
+print(df.head()) ```
 
 📄 License
 This dataset is shared for educational and research purposes only. Not for commercial pharmaceutical use without permission.
