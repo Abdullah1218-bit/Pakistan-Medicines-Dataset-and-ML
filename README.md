@@ -70,3 +70,13 @@ df = pd.read_csv("Pakistan_Medicines_Dataset.csv")
 
 # Preview
 print(df.head())
+
+📄 License
+This dataset is shared for educational and research purposes only. Not for commercial pharmaceutical use without permission.
+
+👨‍💻 Author
+Made with 💊 by Muhammad Abdullah
+
+🔗 Connect with me on LinkedIn
+
+
