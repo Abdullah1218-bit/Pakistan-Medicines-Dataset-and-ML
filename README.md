@@ -27,19 +27,19 @@ This dataset is intended for **healthcare analytics, data science projects, medi
 | `Side Effects`          | Common side effects associated with the drug                                |
 | `Available In`          | Cities or regions where it is commonly available                            |
 | `Age Restriction`       | Recommended minimum age for usage                                           |
-| `Prescription Required`| Whether a prescription is needed to purchase (Yes/No)                        |
+| `Prescription Required` | Whether a prescription is needed to purchase (Yes/No)                       |
 | `Price`                 | Price in PKR (Pakistani Rupees), typically per leaf (tablet) or per bottle  |
 
 ---
 
 ## 🧾 Sample Entries
 
-| Drug Name     | Manufacturer | Strength        | Form   | Indication                | Price |
-|---------------|--------------|------------------|--------|----------------------------|-------|
-| Panadol       | GSK          | 500mg           | Tablet | Fever, mild pain          | 35    |
-| Arinac Forte  | Abott        | 400mg + 60mg    | Tablet | Cold, flu, congestion     | NaN   |
-| Arinac        | Abbott       | 200mg + 30mg    | N/A    | Cold, flu, nasal congestion| 65   |
-| OMC-D         | Sami Pharma  | 20mg            | Tablet | Acidity, gastric issues   | 100   |
+| Drug Name     | Manufacturer | Strength        | Form   | Indication                  | Price |
+|---------------|--------------|------------------|--------|------------------------------|-------|
+| Panadol       | GSK          | 500mg            | Tablet | Fever, mild pain            | 35    |
+| Arinac Forte  | Abott        | 400mg + 60mg     | Tablet | Cold, flu, congestion       | NaN   |
+| Arinac        | Abbott       | 200mg + 30mg     | N/A    | Cold, flu, nasal congestion | 65    |
+| OMC-D         | Sami Pharma  | 20mg             | Tablet | Acidity, gastric issues     | 100   |
 
 ---
 
@@ -69,8 +69,8 @@ import pandas as pd
 df = pd.read_csv("Pakistan_Medicines_Dataset.csv")
 
 # Preview
-print(df.head()) ```
-
+print(df.head())
+```
 📄 License
 This dataset is shared for educational and research purposes only. Not for commercial pharmaceutical use without permission.
 
@@ -78,5 +78,7 @@ This dataset is shared for educational and research purposes only. Not for comme
 Made with 💊 by Muhammad Abdullah
 
 🔗 Connect with me on LinkedIn
+
+
 
 
