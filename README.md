@@ -79,6 +79,7 @@ Made with 💊 by Muhammad Abdullah
 
 🔗 Connect with me on LinkedIn
 
+https://www.linkedin.com/in/muhammad-abdullah-a8a648378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 
 
